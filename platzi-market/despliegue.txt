@@ -1,0 +1,3 @@
+java -jar -Dspring.profiles.active=prod  build/libs/platzi-market-1.0.jar
+Base de datos
+DATABASE_URL: postgres://mugrximqwmmrtk:85f0fdf78f64fe98e298bd6f27cf79ccce154381a5d0d872722c744a29126b2c@ec2-3-208-168-0.compute-1.amazonaws.com:5432/dcn3iiu1kqkpi7
